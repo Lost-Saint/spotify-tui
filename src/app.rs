@@ -18,7 +18,6 @@ use rspotify::{
   },
   senum::Country,
 };
-use std::str::FromStr;
 use std::sync::mpsc::Sender;
 use std::{
   cmp::{max, min},
